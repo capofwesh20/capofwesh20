@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikenna Odezuligbo
 - 👀 I’m interested in Machine leaarning/Deep learning
-- 🌱 I’m currently 2nd year Masters student at Creighton University
+- 🌱 I currently work at Merck as a Data Scientist
 - 💞️ I’m looking to collaborate on Kaggle challanges
 - 📫 How to reach me ieo21464@creighton.edu
 
